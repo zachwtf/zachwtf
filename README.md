@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zachwtf
-- 👀 I’m interested in reading books
--🤘🏻 i luv cats sm
+- 👋 Hi, I’m @ryu
+- 👀 I’m interested in reading books 
+- 🤘🏻 i luv cats sm
 - 👾 i luv to play online games
 
 <!---
